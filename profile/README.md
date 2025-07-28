@@ -9,12 +9,12 @@
 
 # 🔐 [HUSK(Help Use Shell Kindly)](https://husk.kr/)
 
-> SSH 키 등록과 웹 터미널 기반의 SSH 접속을 한 번에 제공하는 통합 서비스
+> 키체인 등록과 웹 터미널 기반의 SSH 접속을 한 번에 제공하는 통합 서비스
 
 </div>
 <img width="1163" height="1731" alt="service intro" src="https://github.com/user-attachments/assets/15453de1-fa34-43b7-9e5a-374aa7d7cad1" />
 
-HUSK를 통해 사용자가 개인 또는 팀용 **SSH 키(Keychain)를 등록**하면, 해당 키를 기반으로 다양한 서버에 **웹 상에서 SSH로 접속할 수 있는 터미널 환경**을 제공해줘요!
+HUSK를 통해 사용자가 개인 또는 팀용 **Keychain(SSH Key)을 등록**하면, 해당 Key를 기반으로 다양한 서버에 **웹 상에서 SSH로 접속할 수 있는 터미널 환경**을 제공해줘요!
 
 🧚 HUSK에서 복잡한 설정 없이 **브라우저 기반 웹 터미널**을 통해 편리하고 안전하게 서버에 접근할 수 있어요
 
